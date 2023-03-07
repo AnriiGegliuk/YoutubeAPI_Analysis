@@ -1,6 +1,6 @@
 # Youtube API Analysis
 
-## Jonna Jinton [Jonna Jinton](https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw) Youtube Channel Analysis
+## [Jonna Jinton](https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw) Youtube Channel Analysis
 
 YouTube is a video-sharing platform where users can upload, share, and view videos. With over 2 billion monthly active users, it is one of the largest social media platforms in the world. YouTube provides access to a vast amount of data, including views, likes, comments, and more, which can be analyzed to gain insights into audience behavior and content performance.
 
