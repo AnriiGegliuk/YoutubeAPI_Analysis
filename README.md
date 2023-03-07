@@ -2,7 +2,7 @@
 
 ## [Jonna Jinton](https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw) Youtube Channel Analysis
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Felfsight.com%2Fblog%2F2016%2F12%2Fhow-to-get-youtube-api-key-tutorial%2F&psig=AOvVaw3Z8Y6AShddB10m2ylYnJfv&ust=1678253047713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiG3_eJyf0CFQAAAAAdAAAAABAE
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Felfsight.com%2Fblog%2F2016%2F12%2Fhow-to-get-youtube-api-key-tutorial%2F&psig=AOvVaw3Z8Y6AShddB10m2ylYnJfv&ust=1678253047713000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiG3_eJyf0CFQAAAAAdAAAAABAE)
 
 YouTube is a video-sharing platform where users can upload, share, and view videos. With over 2 billion monthly active users, it is one of the largest social media platforms in the world. YouTube provides access to a vast amount of data, including views, likes, comments, and more, which can be analyzed to gain insights into audience behavior and content performance.
 
