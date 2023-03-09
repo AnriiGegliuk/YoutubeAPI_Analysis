@@ -7,9 +7,9 @@
 
 YouTube is a video-sharing platform where users can upload, share, and view videos. With over 2 billion monthly active users, it is one of the largest social media platforms in the world. YouTube provides access to a vast amount of data, including views, likes, comments, and more, which can be analyzed to gain insights into audience behavior and content performance.
 
-In this project, we performed an analysis of the Jonna Jinton YouTube channel. We used the YouTube API Python library to retrieve data such as video titles, descriptions, tags, view counts, and durations. We also used various Python libraries such as pandas, matplotlib, and seaborn for data analysis and visualization.
+In this project, I performed an analysis of the Jonna Jinton YouTube channel. I used the YouTube API Python library to retrieve data such as video titles, descriptions, tags, view counts, and durations. I also used various Python libraries such as pandas, matplotlib, and seaborn for data analysis and visualization.
 
-The objective of this project was to gain insights into the performance and growth of the Jonna Jinton channel. We analyzed factors such as video duration, publishing year, and tags to understand their relationship with the view count. Our analysis aimed to identify trends, patterns, and areas for improvement to help the channel grow and succeed.
+The objective of this project was to gain insights into the performance and growth of the Jonna Jinton channel. I analyzed factors such as video duration, publishing year, and tags to understand their relationship with the view count. My analysis aimed to identify trends, patterns, and areas for improvement to help the channel grow and succeed.
 
 However, it's important to note that the data obtained from the YouTube API has limitations, such as only providing data for videos that are publicly available and excluding data from private or deleted videos. Additionally, the data may not be entirely accurate as view counts may not reflect actual views due to factors such as bot views or ad views.
 
@@ -30,10 +30,10 @@ In this project, I analyzed the performance and growth of Jonna Jinton's YouTube
 
 Our analysis showed that the average duration of Jonna Jinton's videos is around 10 minutes. The top 10 most viewed videos are mostly about her life in the Swedish forest and her music, while the 10 least viewed videos are older and less popular videos about her life before she moved to the forest.
 
-The distribution of the view counts for the videos is heavily skewed to the right, with a long tail of low-viewed videos and a few highly viewed videos. We also found that the COVID-19 pandemic had a positive effect on the performance and growth of Jonna Jinton's channel, as more people turned to online content during the pandemic.
+The distribution of the view counts for the videos is heavily skewed to the right, with a long tail of low-viewed videos and a few highly viewed videos. I also found that the COVID-19 pandemic had a positive effect on the performance and growth of Jonna Jinton's channel, as more people turned to online content during the pandemic.
 
-We observed that Jonna Jinton's channel grew steadily over the years, with a sharp increase in the number of videos published since 2019. The tags that appeared most frequently in her videos were related to nature, mindfulness, and spirituality.
+Observed that Jonna Jinton's channel grew steadily over the years, with a sharp increase in the number of videos published since 2019. The tags that appeared most frequently in her videos were related to nature, sweeden, winter, vikings etc.
 
-Finally, we found a positive correlation between the number of views and the number of likes and comments for the videos, indicating that viewers who engage more with Jonna Jinton's content are more likely to watch her videos.
+Finally, found a positive correlation between the number of views and the number of likes and comments for the videos, indicating that viewers who engage more with Jonna Jinton's content are more likely to watch her videos.
 
-Overall, our analysis suggests that Jonna Jinton's content, which focuses on nature, mindfulness, and spirituality, has a growing and engaged audience.
+Overall, my analysis suggests that Jonna Jinton's content, which focuses on nature, mindfulness, and spirituality, has a growing and engaged audience.
