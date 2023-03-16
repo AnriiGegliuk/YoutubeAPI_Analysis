@@ -15,7 +15,7 @@ However, it's important to note that the data obtained from the YouTube API has 
 
 Overall, this project aimed to provide insights into the performance of the Jonna Jinton channel and highlight the potential use of data analysis in optimizing content and growing a YouTube channel.
 
-# Questions for this project:
+# :eyes: Questions for this project:
 
 - How long is the average video duration?
 - What are the top 10 most viewed videos and what are the 10 less viewed videos in the dataset?
