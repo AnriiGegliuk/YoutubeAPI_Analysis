@@ -25,7 +25,7 @@ Overall, this project aimed to provide insights into the performance of the Jonn
 - Which tags appear most frequently?
 - What is the correlation between the number of views and the number of likes for the videos?
 
-# Conclusion
+# :smile: Conclusion
 In this project, I analyzed the performance and growth of Jonna Jinton's YouTube channel using the YouTube Data API v3 and Python libraries for data analysis. I retrieved information about Jonna Jinton's channel and videos, including view count, like count, comment count, duration, and tags, from the YouTube API and stored it in a Pandas dataframe.
 
 Our analysis showed that the average duration of Jonna Jinton's videos is around 10 minutes. The top 10 most viewed videos are mostly about her life in the Swedish forest and her music, while the 10 least viewed videos are older and less popular videos about her life before she moved to the forest.
