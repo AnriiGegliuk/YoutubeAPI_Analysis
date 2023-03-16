@@ -1,6 +1,6 @@
 # Youtube API Analysis
 
-## [Jonna Jinton](https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw) Youtube Channel Analysis
+## [Jonna Jinton](https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw) Youtube Channel Analysis - [Check the code](https://github.com/AnriiGegliuk/YoutubeAPI_Analysis/blob/master/Jonna_Jinton_Youtube_Analysis.ipynb)
 
 ![1_2UBkJVqVgCIqzwuXZibRWg](https://user-images.githubusercontent.com/120349975/223328591-d7f8b0c4-6ebc-4a81-a970-f866ab95b7ae.jpg)
 
