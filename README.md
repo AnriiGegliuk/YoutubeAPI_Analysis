@@ -4,9 +4,6 @@
 
 ![1_2UBkJVqVgCIqzwuXZibRWg](https://user-images.githubusercontent.com/120349975/223328591-d7f8b0c4-6ebc-4a81-a970-f866ab95b7ae.jpg)
 
-
-YouTube is a video-sharing platform where users can upload, share, and view videos. With over 2 billion monthly active users, it is one of the largest social media platforms in the world. YouTube provides access to a vast amount of data, including views, likes, comments, and more, which can be analyzed to gain insights into audience behavior and content performance.
-
 In this project, I performed an analysis of the Jonna Jinton YouTube channel. I used the YouTube API Python library to retrieve data such as video titles, descriptions, tags, view counts, and durations. I also used various Python libraries such as pandas, matplotlib, and seaborn for data analysis and visualization.
 
 The objective of this project was to gain insights into the performance and growth of the Jonna Jinton channel. I analyzed factors such as video duration, publishing year, and tags to understand their relationship with the view count. My analysis aimed to identify trends, patterns, and areas for improvement to help the channel grow and succeed.
@@ -35,5 +32,3 @@ The distribution of the view counts for the videos is heavily skewed to the righ
 Observed that Jonna Jinton's channel grew steadily over the years, with a sharp increase in the number of videos published since 2019. The tags that appeared most frequently in her videos were related to nature, sweeden, winter, vikings etc.
 
 Finally, found a positive correlation between the number of views and the number of likes and comments for the videos, indicating that viewers who engage more with Jonna Jinton's content are more likely to watch her videos.
-
-Overall, my analysis suggests that Jonna Jinton's content, which focuses on nature, mindfulness, and spirituality, has a growing and engaged audience.
